@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "745317325839",
+    "firebase_url": "https://sih-temp-157df-default-rtdb.firebaseio.com",
+    "project_id": "sih-temp-157df",
+    "storage_bucket": "sih-temp-157df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745317325839:android:8d2882e23ac8e2f1b1577a",
+        "android_client_info": {
+          "package_name": "com.example.projectx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpShgQZlGwpT7iRo1ChpZ4m9fLA1sD3ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745317325839:android:2d75ba1947d29cf5b1577a",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpShgQZlGwpT7iRo1ChpZ4m9fLA1sD3ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
